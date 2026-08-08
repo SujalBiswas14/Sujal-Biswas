@@ -122,7 +122,7 @@ An Oracle APEX application for registering electronic appliances, enabling users
 
 <!-- Contribution snake animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sujal-Biswas/Sujal-Biswas/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Sujal-Biswas-14/Sujal-Biswas/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 <br/>
