@@ -103,14 +103,41 @@ An Oracle APEX application for registering electronic appliances, enabling users
 
 <br/>
 
-📊 GitHub Stats</h2> <div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=sujal-biswas&show_icons=true&theme=radical&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal-biswas&layout=compact&theme=radical&hide_border=true" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-biswas&theme=radical&hide_border=true" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujal-biswas&theme=react-dark&hide_border=true" width="100%"/> </div> <br/> <!-- Contribution snake animation --> <div align="center"> <img src="https://raw.githubusercontent.com/sujal-biswas/sujal-biswas/output/github-contribution-grid-snake-dark.svg" width="100%"/> </div> <br/>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sujal-biswas&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal-biswas&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-biswas&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujal-biswas&theme=react-dark&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+<!-- Contribution snake animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sujal-biswas/sujal-biswas/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<br/>
+
+<h2 align="center">🤝 Connect With Me</h2>
 
 <div align="center">
 
-[![LinkedIn: Sujal Chandra Biswas](https://img.shields.io/badge/LinkedIn-Sujal%20Chandra%20Biswas-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-biswas-2aa018289)
+[![LinkedIn](https://img.shields.io/badge/-Sujal%20Chandra%20Biswas-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-biswas-2aa018289)
 [![Gmail](https://img.shields.io/badge/-biswassujalofficial@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:biswassujalofficial@gmail.com)
 
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sujal-biswas&style=flat-square&color=2C5364" alt="Profile views"/>
+</div>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
