@@ -138,8 +138,5 @@ An Oracle APEX application for registering electronic appliances, enabling users
 
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=REPLACE_WITH_USERNAME&style=flat-square&color=2C5364" alt="Profile views"/>
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
+
