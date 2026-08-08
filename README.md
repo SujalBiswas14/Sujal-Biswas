@@ -106,23 +106,23 @@ An Oracle APEX application for registering electronic appliances, enabling users
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sujal-Biswas&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujal-Biswas&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SujalBiswas14&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalBiswas14&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujal-Biswas&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujalBiswas14&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujal-Biswas&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SujalBiswas14&theme=react-dark&hide_border=true" width="100%"/>
 </div>
 
 <br/>
 
 <!-- Contribution snake animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sujal-Biswas-14/Sujal-Biswas/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/SujalBiswas14/SujalBiswas14/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 <br/>
@@ -137,7 +137,7 @@ An Oracle APEX application for registering electronic appliances, enabling users
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sujal-Biswas&style=flat-square&color=2C5364" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=SujalBiswas14&style=flat-square&color=2C5364" alt="Profile views"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
