@@ -103,12 +103,29 @@ An Oracle APEX application for registering electronic appliances, enabling users
 
 <br/>
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_WITH_USERNAME&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sinhaaniket216-dot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinhaaniket216-dot&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinhaaniket216-dot&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinhaaniket216-dot&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+<br/>
+
+<!-- Contribution snake animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sinhaaniket216-dot/sinhaaniket216-dot/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<br/>
 
 <br/>
 
