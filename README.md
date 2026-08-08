@@ -133,7 +133,7 @@ An Oracle APEX application for registering electronic appliances, enabling users
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-Sujal%20Chandra%20Biswas-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-biswas-2aa018289)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn%20Sujal%20Chandra%20Biswas-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-biswas-2aa018289)
 [![Gmail](https://img.shields.io/badge/-biswassujalofficial@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:biswassujalofficial@gmail.com)
 
 </div>
