@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=220&section=header&text=Hi%20There,%20I'm%20Sujal%20Chandra%20Biswas%20👋&fontSize=34&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20/%20Web%20Developer%20|%20BCA%20Graduate&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hi%20There,%20I'm%20Sujal%20Chandra%20Biswas%20👋&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20/%20Web%20Developer%20|%20BCA%20Graduate&descAlignY=52&descSize=17"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&multiline=true&width=650&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Oracle+APEX+%7C+MySQL+%7C+REST+APIs;Full-Stack+%26+Software+Development+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=800&height=70&lines=MERN+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Oracle+APEX+%7C+MySQL+%7C+REST+APIs;Full-Stack+%26+Software+Development+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -106,23 +106,8 @@ An Oracle APEX application for registering electronic appliances, enabling users
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sujal-biswas&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal-biswas&layout=compact&theme=github_dark&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-biswas&theme=github-dark-blue&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujal-biswas&theme=react-dark&hide_border=true" width="100%"/>
-</div>
-
-<br/>
-
-<!-- Contribution snake animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sujal-biswas/sujal-biswas/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_WITH_USERNAME&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <br/>
@@ -137,7 +122,7 @@ An Oracle APEX application for registering electronic appliances, enabling users
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sujal-biswas&style=flat-square&color=2EA043" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=REPLACE_WITH_USERNAME&style=flat-square&color=2C5364" alt="Profile views"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer"/>
